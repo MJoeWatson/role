@@ -5,6 +5,6 @@
 class role::appserver (
 ){
 
-  include profile::golang
+  include profile::go
 
 }
